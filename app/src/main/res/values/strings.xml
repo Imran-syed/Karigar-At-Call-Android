@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KarigarOnCall</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="searchBtnText">Search</string>
+    <string name="title_activity_karigar_details">KarigarDetailsActivity</string>
+    <string name="title_activity_we_are_expanding">WeAreExpanding</string>
+    <string name="sorry_expanding">Oops! Seems like you are requesting in an area we are not covering. We assure we will be in your area really soon!</string>
+    <string name="txtExpanding">We are expanding...</string>
+
+    <string name="worktype_title_0">Need a Carpentar</string>
+    <string name="worktype_desc_0">We believe you love work of woods. Lets do it and make something astonishing.</string>
+    <string name="worktype_title_1">Need a Plumber</string>
+    <string name="worktype_title_2">Need an electrician</string>
+
+
+</resources>
